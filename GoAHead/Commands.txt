@@ -1,0 +1,7 @@
+1) rm -rf goahead
+2) zmap -p81 -w<LST> -ogoahead
+3) python g.py
+____________________________________________________
+1) zmap -p81 -ogoahead1
+2) c.goahead.py goahead1 4000 goahead
+3) python goeahead.py

